@@ -145,11 +145,6 @@ class B {
 
 
 
-
-
-
-
-
 //////////
 
 
@@ -181,15 +176,6 @@ class Aaaa {
         System.out.print(anA.getX());
     }
 }
-
-
-
-
-
-
-
-
-
 
 /////////
 
